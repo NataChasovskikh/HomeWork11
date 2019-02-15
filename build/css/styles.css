@@ -673,4 +673,5 @@ template {
 
 .rower {
   display: flex;
+  justify-content: space-between;
 }
