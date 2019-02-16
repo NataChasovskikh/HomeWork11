@@ -417,8 +417,8 @@ template {
 
 .first {
   width: 100%;
-  background-image: -webkit-gradient linear, left top, left bottom, from(#e88683e8), to(#fce38ade), url(./images/image.png);
-  background-image: linear-gradient(to bottom, #e88683e8, #fce38ade), url(./img/image.png);
+  background-image: -webkit-gradient linear, left top, left bottom, from(#e88683e8), to(#fce38ade), url(../images/image.png);
+  background-image: linear-gradient(to bottom, #e88683e8, #fce38ade), url(../images/image.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

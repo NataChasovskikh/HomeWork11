@@ -40,10 +40,10 @@
 
 .first {
    width: 100%;
-   background-image: -webkit-gradient (linear, left top, left bottom, from(#e88683e8), to(#fce38ade)), url(../../build/images/image.png);
-   background-image: -webkit-linear-gradient(top, #e88683e8, #fce38ade), url(../../build/images/image.png);
-   background-image: -o-linear-gradient(top, #e88683e8, #fce38ade), url(../../build/images/image.png);
-   background-image: linear-gradient(to bottom, #e88683e8, #fce38ade), url(../../build/images/image.png);
+   background-image: -webkit-gradient (linear, left top, left bottom, from(#e88683e8), to(#fce38ade)), url(../images/image.png);
+   background-image: -webkit-linear-gradient(top, #e88683e8, #fce38ade), url(../images/image.png);
+   background-image: -o-linear-gradient(top, #e88683e8, #fce38ade), url(../images/image.png);
+   background-image: linear-gradient(to bottom, #e88683e8, #fce38ade), url(../images/image.png);
    background-size: cover;
    background-position: center center;
    background-repeat: no-repeat;
